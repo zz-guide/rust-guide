@@ -1,2 +1,2 @@
 # rust-guide
-rust-guide
+练习rust
