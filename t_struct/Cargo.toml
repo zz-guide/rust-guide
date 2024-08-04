@@ -1,5 +1,5 @@
 [package]
-name = "tstring"
+name = "t_struct"
 version = "0.1.0"
 edition = "2021"
 

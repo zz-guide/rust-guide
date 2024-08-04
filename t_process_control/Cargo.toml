@@ -1,5 +1,5 @@
 [package]
-name = "tstruct"
+name = "t_process_control"
 version = "0.1.0"
 edition = "2021"
 

@@ -1,4 +1,4 @@
-workspace = { members = [ "tfunc","tstring", "tstruct"] }
+workspace = { members = [ "t_array", "t_data_type", "t_enum", "t_expression", "t_generic", "t_hashmap", "t_method", "t_ownership", "t_process_control", "t_string", "t_struct", "t_tuple","t_variables", "t_vector", "tfunc"] }
 [package]
 name = "rustguide"
 version = "0.1.0"
